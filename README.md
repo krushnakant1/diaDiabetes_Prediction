@@ -1,2 +1,2 @@
-# diaDiabetes_Prediction
+# Diabetes_Prediction
 Diabetes Prediction in ML
